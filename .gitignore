@@ -1,0 +1,4 @@
+mysql_data/
+prometheus_data/
+*.log
+.DS_Store
